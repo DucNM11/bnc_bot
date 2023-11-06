@@ -7,6 +7,8 @@ from binance.client import Client, AsyncClient
 import asyncio
 
 import datetime as dt
+from utils import *
+import time
 
 
 class Binance:

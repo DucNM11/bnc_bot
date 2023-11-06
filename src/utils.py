@@ -1,9 +1,6 @@
 import sqlite3 as lite
-from binance.client import Client, AsyncClient
-import asyncio
 
 import pandas as pd
-import time
 import csv
 import struct
 from numpy import array
